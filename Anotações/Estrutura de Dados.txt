@@ -1,0 +1,8 @@
+Algoritmo, resumidamente, é um procedimento passo a passo para se chegar com sucesso a um fim. Em um algoritmo sempre haverá uma entrada, um processamento e uma saída. Informalmente, os algoritmos são processos, métodos ou funções, de “como” irá se comportar um programa.
+
+As estruturas básicas de dados são:
+Pilhas, filas, listas
+Árvores 
+Hashtables (tabelas de dispersão).
+Grafos
+
