@@ -1,0 +1,2 @@
+Sintaxe Markdown para read.me:https://markdown.net.br/sintaxe-basica/
+Java w3: https://www.w3schools.com/java/default.asp
